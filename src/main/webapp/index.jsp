@@ -1,5 +1,13 @@
 <html>
-<body>
+<head>
+   <style>
+    .niceProgram{
+        font-style : italic ;
+         color : blue ;
+    }
+    </style>
+    </head>
+ <body>
 <div class="ads-in-post hide_if_width_less_800">
     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <!-- new 728x90 - After2ndH4 -->
@@ -11,6 +19,7 @@
     <script>
         (adsbygoogle = window.adsbygoogle || []).push({});
     </script>
-</div><h2>Hello World!Hello</h2>
+</div>
+    <div class = "niceProgram"><h2>Hello World!Hello</h2></div>
 </body>
 </html>
